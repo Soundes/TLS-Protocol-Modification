@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/bcprov-ext-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/bcprov-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/commons-codec-1.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/commons-codec-1.10-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/commons-codec-1.10-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/commons-codec-1.10-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/oauth.net.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/bcpg-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/bcpkix-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/bcprov-ext-jdk14-1.47.jar"/>
+	<classpathentry kind="var" path="JRE_LIB"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_111"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/bcprov-jdk14-1.49-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/bcpkix-jdk15on-1.56.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Downloads/bc-java-master"/>
+	<classpathentry kind="lib" path="C:/Users/Sondos/Documents/Jar for security/scprov-jdk15on-1.47.0.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
